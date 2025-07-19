@@ -12,16 +12,12 @@ A responsive React-based product comparison app.
 
 ## Setup
 
-1. Clone the repository or extract the ZIP.
-2. Run:
-
-```bash
+git clone https://github.com/your-username/product-comparison-app.git
+cd product-comparison-app
 npm install
 npm run dev
-```
 
 ## Tech Stack
-
 - React
 - Tailwind CSS
 - JavaScript (no backend)
