@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: 1,
+    name: "Galaxy S21",
+    brand: "Samsung",
+    image: "https://www.motabhaielectronics.com/cdn/shop/products/71xa6UVqOhL._SL1500_800x.jpg?v=1671205070",
+    price: "$699",
+    features: ["6.2-inch display", "4000mAh battery", "Triple camera"],
+  },
+  {
+    id: 2,
+    name: "iPhone 13",
+    brand: "Apple",
+    image: "https://www.motabhaielectronics.com/cdn/shop/products/71xa6UVqOhL._SL1500_800x.jpg?v=1671205070",
+    price: "$799",
+    features: ["6.1-inch display", "A15 chip", "Dual camera"],
+  },
+  {
+    id: 3,
+    name: "Pixel 6",
+    brand: "Google",
+    image: "https://www.motabhaielectronics.com/cdn/shop/products/71xa6UVqOhL._SL1500_800x.jpg?v=1671205070",
+    price: "$599",
+    features: ["6.4-inch OLED", "Google Tensor", "Dual camera"],
+  },
+  {
+    id: 4,
+    name: "OnePlus 9",
+    brand: "OnePlus",
+    image: "https://www.motabhaielectronics.com/cdn/shop/products/71xa6UVqOhL._SL1500_800x.jpg?v=1671205070",
+    price: "$729",
+    features: ["6.55-inch AMOLED", "4500mAh", "Hasselblad camera"],
+  },
+  {
+    id: 5,
+    name: "Xiaomi Mi 11",
+    brand: "Xiaomi",
+    image: "https://www.motabhaielectronics.com/cdn/shop/products/71xa6UVqOhL._SL1500_800x.jpg?v=1671205070",
+    price: "$749",
+    features: ["6.81-inch display", "4600mAh", "108MP camera"],
+  },
+  {
+    id: 6,
+    name: "Sony Xperia 5",
+    brand: "Sony",
+    image: "https://www.motabhaielectronics.com/cdn/shop/products/71xa6UVqOhL._SL1500_800x.jpg?v=1671205070",
+    price: "$849",
+    features: ["6.1-inch OLED", "Snapdragon 865", "Triple lens"],
+  },
+  {
+    id: 7,
+    name: "Moto Edge",
+    brand: "Motorola",
+    image: "https://www.motabhaielectronics.com/cdn/shop/products/71xa6UVqOhL._SL1500_800x.jpg?v=1671205070",
+    price: "$699",
+    features: ["6.7-inch OLED", "Snapdragon 765", "5000mAh"],
+  },
+  {
+    id: 8,
+    name: "Nokia XR20",
+    brand: "Nokia",
+    image: "https://www.motabhaielectronics.com/cdn/shop/products/71xa6UVqOhL._SL1500_800x.jpg?v=1671205070",
+    price: "$549",
+    features: ["6.67-inch display", "Military-grade durability", "Dual camera"],
+  },
+];
+
+export default products;
